@@ -2,6 +2,10 @@
 
 Welcome to Jersey and Gadget Palace, a modern e-commerce platform that brings together the best of sports fashion and cutting-edge technology. This web application is crafted with HTML, CSS, and JavaScript to offer users a seamless and visually captivating shopping experience.
 
+## Designer
+
+SIDRAT MOON TAHER
+
 ## Overview
 
 Jersey and Gadget Palace is designed for enthusiasts who appreciate both the thrill of sports and the latest advancements in technology. Our platform showcases a curated collection of premium jerseys from various sports alongside the newest and trendiest gadgets.
